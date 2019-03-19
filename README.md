@@ -1,0 +1,2 @@
+# scrapyjingdong
+通过scrapy爬取京东一类商品的详情信息
